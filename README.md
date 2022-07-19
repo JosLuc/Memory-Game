@@ -19,3 +19,5 @@ This game is a project challenge from the DIO bootcamp, however I made some chan
 - It's possible to put a nickname;
 
 Soon I intend to bring more games and different projects to show my evolution.
+
+Git Page: https://josluc.github.io/Memory-Game/
