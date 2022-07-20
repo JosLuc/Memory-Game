@@ -1,6 +1,5 @@
 const cards = document.querySelectorAll('.card');
 const spanPlayer = document.querySelector('.player');
-const disabledGame = document.querySelectorAll('.end');
 let hasFlippedCard = false;
 let firstCard, secondCard;
 let lockBoard = false;
@@ -75,6 +74,3 @@ cards.forEach((card) => {
 (window.pl4yer = () => {
     spanPlayer.innerHTML = localStorage.getItem('player');
 })();
-
-
-
